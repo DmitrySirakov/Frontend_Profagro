@@ -8,6 +8,8 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-090909?style=for-the-badge&logo=openai)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 
+[Документация проекта на DeepWiki](https://deepwiki.com/DmitrySirakov/ML_Profagro)
+
 ## Описание
 
 Frontend реализует пользовательские интерфейсы для взаимодействия механизатора и инженера с LLM-ассистентом. Включает web-приложения на Gradio и Telegram-бота, обеспечивающих мгновенный доступ к инструкциям, фото-схемам и видеогайдам в полевых условиях.
