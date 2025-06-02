@@ -1,5 +1,13 @@
 # Frontend_Profagro
 
+## 🛠️ Стек frontend
+
+![Python](https://img.shields.io/badge/-Python_3.10+-090909?style=for-the-badge&logo=python)
+![Gradio](https://img.shields.io/badge/-Gradio-090909?style=for-the-badge&logo=gradio)
+![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=telegram)
+![OpenAI](https://img.shields.io/badge/-OpenAI-090909?style=for-the-badge&logo=openai)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+
 ## Описание
 
 Frontend реализует пользовательские интерфейсы для взаимодействия механизатора и инженера с LLM-ассистентом. Включает web-приложения на Gradio и Telegram-бота, обеспечивающих мгновенный доступ к инструкциям, фото-схемам и видеогайдам в полевых условиях.
