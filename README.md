@@ -8,7 +8,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-090909?style=for-the-badge&logo=openai)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 
-[Документация проекта на DeepWiki](https://deepwiki.com/DmitrySirakov/ML_Profagro)
+[Документация проекта на DeepWiki](https://deepwiki.com/DmitrySirakov/Frontend_Profagro)
 
 ## Описание
 
